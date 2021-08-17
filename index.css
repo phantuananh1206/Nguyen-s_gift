@@ -2,7 +2,9 @@
     width: 362px;
     height: 200px;
     background-image: url(Nguyen.png);
-    background-size: cover;
+    background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: center center;
 }
 
 .move{
