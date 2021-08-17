@@ -1,0 +1,21 @@
+.n1{
+    width: 362px;
+    height: 200px;
+    background-image: url(Nguyen.png);
+    background-size: cover;
+}
+
+.move{
+    transform: translateX(700px);
+    transition: 2s;
+}
+
+
+.change{
+    background-image: url(cayto.jpg);
+    transition: 2s;
+}
+
+.card{
+    transition: 2s;
+}
